@@ -96,6 +96,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <label>Meta Description</label>
+                                    <label>Meta Description</label>
                                     <input type="text" name="meta_description" value="{{$product->meta_description}}"  class="form-control"/>
                                 </div>
                                 <div class="mb-3">

@@ -70,7 +70,6 @@
                            </div>
                         </div>
                     </form>
-                    <p>salek chy</p>
                 </div>
             </div>
         </div>
