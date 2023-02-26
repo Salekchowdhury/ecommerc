@@ -67,6 +67,7 @@
                             </div>
                             <div class="mb-3">
                                 <label>Product Slug</label>
+                                <label>Product Slug</label>
                                 <input type="text" name="slug" value="{{$product->slug}}" class="form-control"/>
                             </div>
                             <div class="mb-3">
